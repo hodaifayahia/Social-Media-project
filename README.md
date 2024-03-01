@@ -80,7 +80,7 @@ Alternatively, you can consider using a PHP MongoDB library like mongodb or Mong
 
 
 
-// PROJECT USING PHP MYSQL
+# PROJECT USING PHP MYSQL
 
 
 Social Media Project (PHP)
@@ -88,12 +88,12 @@ Introduction:
 
 This repository contains the source code for a social media application developed using PHP. This project is intended for educational purposes and demonstrates basic functionalities of a social media platform.
 
-Features:
+#Features:
 
 User registration and login
 Creating and editing profiles
 Posting and viewing content
-Technologies:
+#Technologies:
 
 PHP: Server-side scripting language
 HTML: Hypertext Markup Language for structure
@@ -107,11 +107,11 @@ Run the application: Place the project files in your web server's document root 
 Running a PHP Project with MySQL Import in XAMPP:
 Here are the steps to run a project written in PHP that imports data from an existing MySQL database using XAMPP:
 
-1. Setting Up XAMPP:
+#1. Setting Up XAMPP:
 
 Download and install XAMPP: Download the appropriate version from https://www.apachefriends.org/.
 Start XAMPP: Open the XAMPP Control Panel and ensure both Apache and MySQL are running.
-2. Preparing the MySQL Database:
+#2. Preparing the MySQL Database:
 
 Create or access an existing database: Use phpMyAdmin (accessible at http://localhost/phpmyadmin) to create a new database or use an existing one that contains the data you want to import.
 Prepare the SQL file (if necessary): If you have the data in a separate SQL file, ensure it's formatted correctly and ready for import.
